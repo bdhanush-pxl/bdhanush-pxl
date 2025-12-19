@@ -1,4 +1,4 @@
-## 👋 Hi there , I'm Dhanush!
+# 👋 Hi there , I'm Dhanush!
 
 # 💫 About Me:
 🌱Forever curious and always learning.<br>💡Open-source enthusiast.<br>🤝 Love to connect, build, and share knowledge with others.<br>🎯Focused on impactful, creative tech solutions.
